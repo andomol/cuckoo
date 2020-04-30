@@ -13,9 +13,14 @@ for (var i = 0; i < matrix.length; i++) {
     makeSound(innerButtonHtml);
 
     activeButton(innerButtonHtml);
+  });
+  matrix[i].addEventListener("touchstart", function() {
 
+    var innerButtonHtml = this.innerHTML;
 
+    makeSound(innerButtonHtml);
 
+    activeButton(innerButtonHtml);
   });
 }
 
