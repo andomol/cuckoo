@@ -1,4 +1,4 @@
-document.getElementById("audio").autoplay;
+
 
 //Detecting button press
 
