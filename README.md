@@ -1,2 +1,2 @@
 # cuckoo
-Cuckoo Clock
+Cuckoo clock exercise
